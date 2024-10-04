@@ -10,6 +10,7 @@ Task Notifier — это приложение для управления зад
 Сначала клонируйте репозиторий:
 
 git clone https://github.com/MrDeady/task-notifier/.git
+
 cd task-notifier
 
 ### 2. Установка зависимостей
